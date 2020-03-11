@@ -1,6 +1,5 @@
 <?php 
 $servername = "localhost";
-$database = "praktikum6";
 $username = "root";
 $password  = "";
 //create connection
